@@ -1,0 +1,7 @@
+# Ecommerce-Analytics-Dashboard
+End-to-end Ecommerce analytics dashboard built with Python and Tableau
+This project analyzes product performance, pricing behavior, customer sentiment, and catalog completeness across a multi-category Ecommerce dataset. The dataset contains detailed product-level attributes, including ratings, pricing history, discount activity, category hierarchy, seller information, and rich catalog content such as images, descriptions, specifications, and variations.
+
+Using Python for data preparation and Tableau for visualization, this project delivers a full end-to-end analytics workflow designed to support decision making in Ecommerce environments similar to Webstaurant, Fanatics, Nike, and other large scale retail operations. The analysis focuses on understanding how customers interact with different categories, how pricing and discount strategies influence engagement, and how catalog quality affects perceived value.
+
+The dashboard is structured into five pages: Executive Overview, Pricing & Engagement, Customer Sentiment, Catalog Completeness, and Brand Performance, each targeting a specific business question and supporting operational, merchandising, and assortment planning decisions.
