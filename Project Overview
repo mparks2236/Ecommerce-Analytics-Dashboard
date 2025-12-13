@@ -15,7 +15,7 @@ Product Information: Product ID, title, description, specifications, variations
 
 Customer Feedback: Average rating, ratings count, star distribution, customer review text
 
-Pricing: Initial price, discount percentage, final price, offers
+Pricing: Initial price, final price, offers
 
 Catalog Content: Images, videos, sizes, attributes, seller details
 
@@ -39,7 +39,7 @@ Identifying “hero products”
 
 Comparing brands within and across categories
 
-Supporting price optimization and merchandising strategy
+Supporting pricing optimization and merchandising strategy
 
 The diverse features make it ideal for machine learning models, recommendation systems, and BI dashboard development.
 
@@ -53,7 +53,7 @@ The final workflow includes:
 
 Data Cleaning & Transformation (Python)
 
-Metric Engineering: CSI, RVR, Value Score, Completeness tiers
+Metric Engineering: CSI, RVR, Value Score, Completeness tiers, discount %
 
 Dashboard Design (Tableau)
 
