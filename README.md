@@ -1,4 +1,5 @@
 E-commerce Product Performance Analytics
+
 End-to-end Ecommerce analytics dashboard built with Python and Tableau
 This project analyzes product performance, pricing, customer sentiment, and catalog completeness across a multi-category Ecommerce dataset. The dataset contains detailed product attributes, including ratings, pricing history to determine discount activity, category hierarchy, seller information, and rich catalog content such as images, descriptions, specifications, and variations.
 
